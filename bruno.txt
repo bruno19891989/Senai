@@ -1,0 +1,2 @@
+Qual é a diferença de trabalhar com CSS dentro da página HTML e link externo?
+R: O CSS interno exige  que adicione algumas tags na seção head. Já no link externo as tags podem ser usadas por style head interno.
